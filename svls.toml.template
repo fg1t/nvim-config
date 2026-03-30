@@ -1,0 +1,12 @@
+# Copy this file to your project root as .svls.toml
+# svls uses it to find your RTL source paths and defines
+
+[verilog]
+include_paths = [
+  "rtl/",
+  "rtl/include/",
+  "ip/",
+]
+defines = [
+  "SIMULATION",
+]

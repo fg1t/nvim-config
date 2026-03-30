@@ -1,0 +1,5 @@
+# Neovim runtime/cache (stored in ~/.local/share/nvim, not here)
+# Nothing to ignore — track everything including lazy-lock.json
+# lazy-lock.json pins plugin versions for reproducibility
+
+*.log
